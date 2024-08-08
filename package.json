@@ -1,8 +1,7 @@
 {
   "name": "weatherapp",
   "version": "0.1.0",
-  "homepage": "http://pandeyshivam10.github.io/weatherapp",
-  "private": true,
+  "homepage": "https://myusername.github.io/weatherBoard",  "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
