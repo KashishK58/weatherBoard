@@ -1,6 +1,4 @@
 # weatherBoard
-# weatherBoard
-# Weather App
 
 A simple weather application built with React that provides current weather information for a given location. This application retrieves data from a weather API and displays the information in a user-friendly format.
 
