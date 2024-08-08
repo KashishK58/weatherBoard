@@ -4,7 +4,7 @@ import "../css/style.css";
 
 const Tempapp = () => {
   const [city, setCity] = useState(null);
-  const [search, setSearch] = useState("Varanasi");
+  const [search, setSearch] = useState("Gorakhpur");
   const [icon, seticon] = useState(null);
   useEffect(() => {
     const fetchAPI = async () => {
