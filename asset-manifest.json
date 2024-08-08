@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/weatherBoard/static/css/main.d74c02d5.css",
+    "main.js": "/weatherBoard/static/js/main.2fc7b530.js",
+    "static/js/453.63261c35.chunk.js": "/weatherBoard/static/js/453.63261c35.chunk.js",
+    "index.html": "/weatherBoard/index.html",
+    "main.d74c02d5.css.map": "/weatherBoard/static/css/main.d74c02d5.css.map",
+    "main.2fc7b530.js.map": "/weatherBoard/static/js/main.2fc7b530.js.map",
+    "453.63261c35.chunk.js.map": "/weatherBoard/static/js/453.63261c35.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d74c02d5.css",
+    "static/js/main.2fc7b530.js"
+  ]
+}
